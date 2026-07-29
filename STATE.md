@@ -1,6 +1,6 @@
 # State
 
-Status: verified, awaiting production deployment
+Status: running, owner-only production
 
 Current work:
 
@@ -8,6 +8,8 @@ Current work:
 - Company facts verified against ARES on 2026-07-29
 - Lint, production build and rendered-page test pass
 - Production dependency audit reports zero vulnerabilities
-- Production deployment pending
+- Owner-only production deployment is live and response-verified:
+  <https://casa-buena-import.parraga336185.chatgpt.site>
 
-Next action: publish the verified source with Sites and record the production URL.
+Next action: after explicit approval, change access to public so Alza and other
+counterparties can open the site.

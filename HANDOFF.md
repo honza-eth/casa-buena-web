@@ -10,6 +10,11 @@ Verification completed on 2026-07-29:
 - `npm run lint` passes
 - `npm test` passes
 - production dependency audit reports zero vulnerabilities
+- owner-only production deployment succeeded and its rendered content was
+  response-verified
+
+Production URL:
+<https://casa-buena-import.parraga336185.chatgpt.site>
 
 ## Guardrails
 
@@ -20,5 +25,5 @@ Verification completed on 2026-07-29:
 
 ## Next
 
-Deploy the verified git commit, then replace this section with the production
-URL and deployment status.
+Obtain explicit approval to make the site public, update its Sites access
+policy, and verify the URL without owner authentication.
