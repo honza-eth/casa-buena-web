@@ -25,5 +25,5 @@ Production URL:
 
 ## Next
 
-Obtain explicit approval to make the site public, update its Sites access
-policy, and verify the URL without owner authentication.
+Publish through GitHub Pages at `casabuena.struhala.cz`, configure the Savana /
+Webglobe DNS record and verify the custom domain without authentication.
