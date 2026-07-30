@@ -1,6 +1,6 @@
 # State
 
-Status: public DNS cutover complete; HTTPS certificate pending
+Status: production live at https://struhala.cz
 
 Current work:
 
@@ -19,9 +19,15 @@ Current work:
 - CZ.NIC's public `.cz` zone delegates to all four WEDOS nameservers
 - Cloudflare and Google public resolvers return the GitHub Pages addresses and
   the preserved Google MX record
-- GitHub serves the deployed site for the `struhala.cz` host header
-- GitHub certificate issuance and local expiry of the old cached IPv6 record
-  are still pending
+- GitHub Pages reports the certificate approved for `struhala.cz` and
+  `www.struhala.cz`, expiring 2026-10-28
+- HTTPS enforcement is enabled
+- HTTP redirects to HTTPS; `www` redirects to the root domain
+- The real Chrome tab on Jan's Mac rendered the complete Casa Buena page over
+  HTTPS with no browser warning
+- Tailscale DNS was restored to its original enabled state after clearing the
+  final local macOS cache
 
-Next action: wait for GitHub's certificate, enforce HTTPS, then verify root and
-`www` through normal public resolution and record the final live result.
+Next action: leave the old Savana zone available as a rollback reference for 24
+hours, then handle obsolete `wp` records and email authentication as a separate
+cleanup rather than changing them during this migration.

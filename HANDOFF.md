@@ -33,9 +33,16 @@ Migration to <https://struhala.cz> began on 2026-07-30:
 - CZ.NIC's public `.cz` zone delegates to all four WEDOS nameservers
 - Cloudflare and Google resolvers return the GitHub A/AAAA records and the
   preserved Google MX record
-- GitHub's HTTP origin serves the deployed site for `struhala.cz`
-- GitHub's certificate has not yet been issued; this Mac also retains the old
-  Savana IPv6 answer until its former 1800-second TTL expires
+- GitHub Pages reports the certificate approved for `struhala.cz` and
+  `www.struhala.cz`, expiring 2026-10-28
+- HTTPS enforcement is enabled
+- HTTP redirects to HTTPS and `www` redirects to the root domain
+- A normal `curl` request through the Mac's system resolver returns GitHub's
+  HTTPS site after local cache expiry
+- The actual Chrome tab on Jan's Mac rendered the complete Casa Buena landing
+  page at <https://struhala.cz> with no browser warning
+- Tailscale DNS was briefly toggled off and back on to make macOS discard its
+  stale Webglobe host cache; `CorpDNS` is restored to `true`
 
 The rollback reference is Savana zone serial `2026070603`. Do not reactivate
 the obsolete 2023 WEDOS record set; it was replaced before the NSSET change.
@@ -49,6 +56,6 @@ the obsolete 2023 WEDOS record set; it was replaced before the NSSET change.
 
 ## Next
 
-Wait for GitHub's certificate, enforce HTTPS, then verify public DNS, Google MX,
-root and `www` through normal public resolution. Update this handoff only with
-the observed live result.
+Keep the Savana zone as a rollback reference for 24 hours. Treat removal of the
+obsolete `wp` records and addition of SPF/DKIM/DMARC as a separate DNS cleanup,
+not part of this completed migration.

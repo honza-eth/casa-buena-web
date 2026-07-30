@@ -149,3 +149,17 @@ serves the deployed site for the custom host. The remaining incomplete check is
 certificate issuance; the current fallback `*.github.io` certificate does not
 cover `struhala.cz`. This Mac also retains the former Savana AAAA answer until
 its 1800-second TTL expires.
+
+## Resolved
+
+GitHub issued and approved a Let's Encrypt certificate for both `struhala.cz`
+and `www.struhala.cz`, expiring 2026-10-28. HTTPS enforcement is enabled. HTTP
+redirects to HTTPS, `www` redirects to the root, the HTML and CSS return 200,
+and the actual Chrome tab on Jan's Mac rendered the complete Casa Buena page
+without a browser warning.
+
+The final local false negative was a two-layer cache: Tailscale's DNS forwarder
+and then macOS `mDNSResponder`. Tailscale's cache expired normally. A reversible
+`accept-dns` off/on toggle made macOS refresh its host cache, after which both
+IPv4 and IPv6 resolved only to GitHub. Tailscale `CorpDNS` was confirmed restored
+to `true`.
