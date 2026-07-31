@@ -22,9 +22,13 @@ const newsreader = Newsreader({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://casabuena.cz"),
   title: "Casa Buena | European Vehicle Import Coordination",
   description:
     "European-side coordination for China-origin vehicle imports, from an agreed EU port through customs, technical approval and Czech handover.",
+  alternates: {
+    canonical: "/",
+  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
