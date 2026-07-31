@@ -1,33 +1,27 @@
 # State
 
-Status: production live at https://struhala.cz
+Status: production live at https://casabuena.cz
 
 Current work:
 
 - Single-page public site implemented
 - Company facts verified against ARES on 2026-07-29
-- Lint, production build and rendered-page test pass
+- Lint, production build and rendered-page tests pass
 - Production dependency audit reports zero vulnerabilities
-- Owner-only production deployment is live and response-verified:
-  <https://casa-buena-import.parraga336185.chatgpt.site>
-- GitHub Pages custom domain is configured as <https://struhala.cz>
-- The replacement WEDOS DNS zone is active with serial `2026073002`
-- Website records point to GitHub Pages; the live Google MX, verification,
-  `mail`, and legacy `wp` records were preserved
-- WEDOS completed the registry NSSET change from `SAVANA` to `WEDOS` at
-  2026-07-30 07:54:42 CEST
-- CZ.NIC's public `.cz` zone delegates to all four WEDOS nameservers
-- Cloudflare and Google public resolvers return the GitHub Pages addresses and
-  the preserved Google MX record
-- GitHub Pages reports the certificate approved for `struhala.cz` and
-  `www.struhala.cz`, expiring 2026-10-28
-- HTTPS enforcement is enabled
-- HTTP redirects to HTTPS; `www` redirects to the root domain
-- The real Chrome tab on Jan's Mac rendered the complete Casa Buena page over
-  HTTPS with no browser warning
-- Tailscale DNS was restored to its original enabled state after clearing the
-  final local macOS cache
+- Public Sites production version 2 is live and response-verified
+- <https://casabuena.cz> is the canonical address and serves the complete site
+  over HTTPS
+- `www.casabuena.cz`, `struhala.cz`, and `www.struhala.cz` return permanent
+  `308` redirects to `https://casabuena.cz`, preserving path and query
+- All four custom hostnames report active routing and active SSL
+- WEDOS zones are active at serial `2026073102` for `casabuena.cz` and
+  `2026073101` for `struhala.cz`
+- All four WEDOS nameservers and both Cloudflare and Google public resolvers
+  return the new Sites addresses
+- The existing `struhala.cz` Google MX, verification, `mail`, and legacy `wp`
+  records were preserved
+- The old GitHub Pages deployment and workflow are disabled
 
-Next action: leave the old Savana zone available as a rollback reference for 24
-hours, then handle obsolete `wp` records and email authentication as a separate
-cleanup rather than changing them during this migration.
+Next action: no domain-migration work remains. Treat a future
+`@casabuena.cz` mailbox and the legacy `wp`/email-authentication cleanup as
+separate tasks.

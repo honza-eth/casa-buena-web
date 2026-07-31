@@ -2,50 +2,35 @@
 
 ## Current milestone
 
-Casa Buena's English-first company landing page has been implemented around the
-verified operating model from `/Users/jan/Projects/import-service`.
+Casa Buena's English-first company landing page is public at
+<https://casabuena.cz>.
 
-Verification completed on 2026-07-29:
+Latest verification completed on 2026-07-31:
 
 - `npm run lint` passes
 - `npm test` passes
-- production dependency audit reports zero vulnerabilities
-- owner-only production deployment succeeded and its rendered content was
+- the canonical page, redirects, DNS, TLS and preserved mail records were
   response-verified
-
-Production URL:
-<https://casa-buena-import.parraga336185.chatgpt.site>
+- Sites production version 2 is public and live
 
 ## Public-domain migration
 
-Migration to <https://struhala.cz> began on 2026-07-30:
+The production domain moved from `struhala.cz` to `casabuena.cz` on
+2026-07-31:
 
-- The GitHub Pages custom domain is `struhala.cz`
-- GitHub's origin serves the deployed site for that hostname
-- The active WEDOS DNS zone has serial `2026073002`
-- Four GitHub Pages A records and four AAAA records are present
-- `www` points to `honza-eth.github.io`
-- The existing Google MX, root verification TXT, `mail`, and `wp` records were
-  copied from all three agreeing Savana nameservers
-- All four WEDOS nameservers return the same replacement zone
-- WEDOS completed the registry NSSET change from `SAVANA` to `WEDOS` at
-  2026-07-30 07:54:42 CEST
-- CZ.NIC's public `.cz` zone delegates to all four WEDOS nameservers
-- Cloudflare and Google resolvers return the GitHub A/AAAA records and the
-  preserved Google MX record
-- GitHub Pages reports the certificate approved for `struhala.cz` and
-  `www.struhala.cz`, expiring 2026-10-28
-- HTTPS enforcement is enabled
-- HTTP redirects to HTTPS and `www` redirects to the root domain
-- A normal `curl` request through the Mac's system resolver returns GitHub's
-  HTTPS site after local cache expiry
-- The actual Chrome tab on Jan's Mac rendered the complete Casa Buena landing
-  page at <https://struhala.cz> with no browser warning
-- Tailscale DNS was briefly toggled off and back on to make macOS discard its
-  stale Webglobe host cache; `CorpDNS` is restored to `true`
-
-The rollback reference is Savana zone serial `2026070603`. Do not reactivate
-the obsolete 2023 WEDOS record set; it was replaced before the NSSET change.
+- `casabuena.cz` serves the actual Casa Buena website and is the canonical URL
+- `www.casabuena.cz`, `struhala.cz`, and `www.struhala.cz` permanently redirect
+  to `https://casabuena.cz`, preserving path and query
+- all four custom domains report active routing and SSL
+- WEDOS zone serials are `2026073102` for `casabuena.cz` and `2026073101` for
+  `struhala.cz`
+- all four authoritative WEDOS nameservers agree
+- Cloudflare and Google public resolvers return the Sites addresses
+- the `struhala.cz` Google MX, root verification TXT, `mail`, and legacy `wp`
+  records remain unchanged
+- GitHub Pages was disabled after the Sites cutover
+- deployment source is commit `2c396149bcc99c58b5cb225800d0dde3c7ddf39a`
+  and Sites production version 2
 
 ## Guardrails
 
@@ -56,6 +41,7 @@ the obsolete 2023 WEDOS record set; it was replaced before the NSSET change.
 
 ## Next
 
-Keep the Savana zone as a rollback reference for 24 hours. Treat removal of the
-obsolete `wp` records and addition of SPF/DKIM/DMARC as a separate DNS cleanup,
-not part of this completed migration.
+No migration action remains. If Casa Buena needs an address such as
+`info@casabuena.cz`, set up that mailbox separately before changing the
+currently published `casabuena@struhala.cz` contact address. Treat removal of
+obsolete `wp` records and SPF/DKIM/DMARC work as a separate DNS cleanup.
