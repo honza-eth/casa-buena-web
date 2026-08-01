@@ -15,7 +15,7 @@ This project uses `/bootstrap` for the website-improvement phase.
 
 ## Current milestone
 
-A premium bilingual Casa Buena redesign is ready as a local candidate:
+A premium bilingual Casa Buena redesign is live in production:
 
 - English at `/`; Czech at `/cs`
 - visible EN/CZ switcher
@@ -40,18 +40,22 @@ details, oversized route typography and a memorable EU→CZ graphic spine.
 - the social image is verified as a 1200 × 630 PNG
 - independent audits cleared an implied-control phrase, incomplete Czech
   localization and low-contrast accent states
+- Sites version 3 deployed successfully from commit `3854dda`
+- `https://casabuena.cz/` served the new English page and the live language
+  switcher navigated to the new Czech page at `/cs`
+- both live routes exposed the expected localized content, direct email path and
+  company identity with no captured console warnings
 
-Browser-based screenshots and interaction inspection were not available because
-the in-app browser had no backend. Desktop/mobile appearance, keyboard traversal
-and reduced-motion behavior are supported by the markup/CSS but remain the one
-unverified operator surface.
+The live interaction check succeeded, but screenshot capture failed after the
+browser target closed. Pixel-level desktop/mobile appearance, keyboard traversal
+and reduced-motion behavior remain the operator-review surface.
 
 ## Production baseline
 
-Production remains the previously verified Sites version at
-<https://casabuena.cz>. The 2026-07-31 hostname migration is complete, legacy
-web hostnames still redirect, and email records remain preserved. This local
-redesign has not been deployed or pushed.
+Production is the bilingual redesign at <https://casabuena.cz>. The 2026-07-31
+hostname migration and email records remain preserved. Direct HTTP checks on
+2026-08-01 showed `www.casabuena.cz`, `struhala.cz` and `www.struhala.cz` serving
+the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Guardrails
 
@@ -64,5 +68,5 @@ redesign has not been deployed or pushed.
 
 ## Next
 
-Jan reviews both local routes visually. If approved, deploy and push only after
-a new explicit instruction.
+Jan reviews both live routes visually on desktop and mobile. Treat any findings
+as a new bounded refinement pass; the deployment itself is complete.

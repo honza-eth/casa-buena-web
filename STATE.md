@@ -4,11 +4,10 @@ Updated: 2026-08-01
 
 ## Status
 
-Production remains live and unchanged at <https://casabuena.cz>. A new premium
-bilingual redesign is implemented and verified locally but has not been pushed
-or deployed.
+The premium bilingual redesign is live at <https://casabuena.cz>. Sites version
+3 was deployed on 2026-08-01 from commit `3854dda`.
 
-## Local candidate
+## Live release
 
 - Complete English version at `/` and complete Czech version at `/cs`
 - Clear EN/CZ switcher with correct current-language state
@@ -28,24 +27,29 @@ or deployed.
 - `npm test` passes, including the production build and four rendered-output
   tests covering both languages, truth boundaries, metadata, social asset and
   legacy redirects
-- The production server returns `200` for `/`, `/cs` and `/og.png`
+- The live custom domain returns the new English page at `/` and the new Czech
+  page at `/cs`
+- The live language switcher was clicked in the in-app browser and navigated
+  from `/` to `/cs`; both pages showed the expected localized headings, scope,
+  contact path and company identity with no captured console warnings
+- The Sites deployment completed successfully and its deployed source matches
+  commit `3854dda`
 - Independent truth and technical audits found and cleared wording,
   localization and colour-contrast issues
-- Browser-based desktop/mobile visual inspection was not available in this
-  session; runtime appearance, keyboard traversal and reduced-motion behavior
-  still require operator review
+- Pixel-level screenshot capture failed because the browser target closed, so
+  desktop/mobile visual polish, keyboard traversal and reduced-motion behavior
+  still require Jan's live review
 
 ## Production baseline
 
 - `casabuena.cz` remains the live canonical hostname
-- `www.casabuena.cz`, `struhala.cz` and `www.struhala.cz` remain permanent
-  redirects to the canonical hostname
+- `www.casabuena.cz`, `struhala.cz` and `www.struhala.cz` currently serve the
+  same canonical Casa Buena page with `200`; they do not return an HTTP redirect
 - The verified 2026-07-31 migration is complete and no migration work remains
 - Existing email records and the published `casabuena@struhala.cz` address are
   unchanged
 
 ## Next action
 
-Jan reviews the local English and Czech pages on desktop and mobile. If the
-visual direction and copy are approved, deployment and push require a separate
-explicit instruction.
+Jan reviews the live English and Czech pages on desktop and mobile. Any visual
+or copy refinements become the next bounded website iteration.
