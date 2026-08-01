@@ -1,4 +1,8 @@
-# Bug: struhala.cz points to a broken website and its DNS zone is not visible
+# Resolved migration record: struhala.cz previously pointed to a broken website
+
+This is a historical debugging record. The migration was completed and verified
+on 2026-07-31; `casabuena.cz` is the live canonical website and no migration work
+remains.
 
 ## Symptoms
 

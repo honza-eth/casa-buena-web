@@ -2,6 +2,9 @@
 
 Public company and service website for Casa buena s.r.o.
 
+The complete English version is served at `/`; the equivalent Czech version is
+served at `/cs`.
+
 ```bash
 npm install
 npm run dev
