@@ -10,7 +10,8 @@ The 2026-08-29 visual-improvement phase uses the binding staged process in
   and gated by Jan before production code.
 - `frontend-design` supports craft and `imagegen` supports concept images and
   original raster assets; neither may override the approved direction.
-- Current stage: Stage 1, forensic reference board.
+- Stage 1 is complete in `REFERENCE_BOARD.md`.
+- Current stage: Stage 2, materially different desktop image concepts.
 - No website code, generated production asset or deployment may change before
   Gate A and Gate B are passed.
 
@@ -70,7 +71,7 @@ the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Next
 
-Create `REFERENCE_BOARD.md` with concrete visual principles and anti-copy notes,
-then generate three or four materially different high-fidelity desktop concepts.
-Stop at Gate A for Jan's selection. Do not change the website implementation or
+Generate three materially different high-fidelity desktop concepts from the
+cinematic, editorial and technical lanes defined in `REFERENCE_BOARD.md`. Stop
+at Gate A for Jan's selection. Do not change the website implementation or
 deploy anything during this work.

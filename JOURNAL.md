@@ -28,3 +28,7 @@
   complete desktop/mobile specification → faithful implementation → fixed-
   viewport visual QA. The method is now recorded in `METHODOLOGY.md`; website
   code and production remain unchanged while reference research begins.
+- 2026-08-29 — Stage 1 completed. `REFERENCE_BOARD.md` decomposes ten positive
+  references and two category anti-references into bounded principles. The
+  constant thesis is "automotive seduction disciplined by European control";
+  Stage 2 will test cinematic, editorial and technical expressions of it.
