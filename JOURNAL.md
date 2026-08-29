@@ -61,3 +61,10 @@
   `ARTIFACT_RESEARCH.md` limits the visual translation to a private brand-owned
   coordination tag and prohibits carrier imitation, fake codes, VINs, barcodes,
   customs status or implied operational authority. Visual work waits for Gate N.
+- 2026-08-29 — Gate N research recommends **PORT TO KEYS** as the only strong
+  public-name candidate; `PORT ONWARD` remains only a weaker reserve. The name
+  joins the truthful starting boundary (`PORT`) to tangible handover (`KEYS`)
+  without luxury or repair-shop language. Exact web, ARES and read-only domain
+  checks found no obvious current collision, but no domain was reserved and no
+  formal trademark clearance is claimed. `BRAND_NAMING.md` records the evidence,
+  rejected set and controls. Visual work still waits for Jan's decision.

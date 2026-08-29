@@ -16,7 +16,11 @@ The 2026-08-29 visual-improvement phase uses the binding staged process in
 - `REFERENCE_BOARD.md` is re-evaluated around reliable service and wayfinding.
 - Corrected Stage 2 is rejected in full in `DESIGN_DIRECTIONS_V2.md`; no hybrid.
 - Casa Buena s.r.o. is the legal operator, not the future public brand.
-- Current gate: Gate N, public-brand naming and preliminary collision screening.
+- Current gate: Gate N, Jan's selection or rejection of the public brand.
+- `BRAND_NAMING.md` recommends **PORT TO KEYS** as the sole strong finalist,
+  with `PORT ONWARD` held only as a weaker reserve. Preliminary exact web, ARES
+  and domain checks are clean; this is not trademark clearance and no domain is
+  reserved.
 - `ARTIFACT_RESEARCH.md` records the strongest post-name art-direction anchor:
   a private rear-view-mirror vehicle movement hanger based on real cargo-
   handling practice, with strict controls against fake documents or status.
@@ -79,8 +83,9 @@ the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Next
 
-Produce `BRAND_NAMING.md` with distinct naming territories, preliminary Czech/
-English and collision checks, three finalists and one evidence-backed
-recommendation. Jan selects or rejects the public name at Gate N. Only then
-turn the researched private movement hanger into a hand-authored Gate A concept
-surface. Do not change the website implementation or deploy.
+Jan selects or rejects **PORT TO KEYS** at Gate N. A third finalist was not
+invented after the evidence left only one strong recommendation and one weaker
+reserve. Only after approval, turn the researched private movement hanger into
+a hand-authored Gate A concept surface. Do not buy domains, file a trademark,
+change the website implementation or deploy without the corresponding later
+decision.

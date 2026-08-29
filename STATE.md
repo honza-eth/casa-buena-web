@@ -56,10 +56,15 @@ the production baseline. Jan rejected both Gate A sets: the first sold luxury;
 the second replaced luxury with generic AI-infographic language. Casa Buena
 s.r.o. is now explicitly the legal operator, not the public brand name.
 
-Current work is Gate N: develop and preliminarily screen a distinct Czech/
-English service brand. After Jan selects it, Stage 1 restarts from an authentic
-vehicle-movement artifact. `ARTIFACT_RESEARCH.md` identifies a private rear-
-view-mirror movement hanger as the strongest anchor. The next concepts are
-hand-authored; `imagegen` cannot generate a full interface. Do not change
-production website code, assets or deployment before Gate A and Gate B are
-subsequently passed.
+Gate N research is complete. `BRAND_NAMING.md` recommends **PORT TO KEYS** as
+the only strong candidate and keeps `PORT ONWARD` as a weaker reserve. Exact
+web, ARES and read-only `.cz`/`.eu`/`.com` checks found no obvious collision or
+current registration for the recommended name, but no formal trademark
+clearance or domain reservation has occurred. Jan's selection or rejection is
+the current gate.
+
+After Gate N, Stage 1 restarts from an authentic vehicle-movement artifact.
+`ARTIFACT_RESEARCH.md` identifies a private rear-view-mirror movement hanger as
+the strongest anchor. The next concepts are hand-authored; `imagegen` cannot
+generate a full interface. Do not change production website code, assets or
+deployment before Gate A and Gate B are subsequently passed.
