@@ -32,3 +32,8 @@
   references and two category anti-references into bounded principles. The
   constant thesis is "automotive seduction disciplined by European control";
   Stage 2 will test cinematic, editorial and technical expressions of it.
+- 2026-08-29 — Stage 2 produced three materially different Gate A candidates:
+  Cinematic Control (A), Editorial Dossier (B) and European Control Instrument
+  (C). Internal truth review rejected invented generated shipping/vehicle data
+  and regenerated the affected visuals. `DESIGN_DIRECTIONS.md` records their
+  lineage, advantage, risk and anti-patterns. No website code changed.

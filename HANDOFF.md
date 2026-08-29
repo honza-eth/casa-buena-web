@@ -11,7 +11,8 @@ The 2026-08-29 visual-improvement phase uses the binding staged process in
 - `frontend-design` supports craft and `imagegen` supports concept images and
   original raster assets; neither may override the approved direction.
 - Stage 1 is complete in `REFERENCE_BOARD.md`.
-- Current stage: Stage 2, materially different desktop image concepts.
+- Stage 2 is complete in `DESIGN_DIRECTIONS.md`.
+- Current gate: Gate A, awaiting Jan's explicit concept decision.
 - No website code, generated production asset or deployment may change before
   Gate A and Gate B are passed.
 
@@ -71,7 +72,7 @@ the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Next
 
-Generate three materially different high-fidelity desktop concepts from the
-cinematic, editorial and technical lanes defined in `REFERENCE_BOARD.md`. Stop
-at Gate A for Jan's selection. Do not change the website implementation or
-deploy anything during this work.
+Jan selects A, B or C; requests a deliberate hybrid that names one base and one
+exact borrowed element; or rejects all three. Codex recommends B for maximum
+graphic-design step change. Do not create mobile/section specifications, change
+the website implementation or deploy anything before this decision.

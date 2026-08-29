@@ -53,7 +53,7 @@ The premium bilingual redesign is live at <https://casabuena.cz>. Sites version
 
 A new visual-improvement phase is active, with the current live release kept as
 the production baseline. The concept-first workflow and approval gates are
-locked in `METHODOLOGY.md`. Stage 1 is complete in `REFERENCE_BOARD.md`; create
-the materially different desktop image concepts for Gate A next. Do not change
-website code before Jan selects a direction at Gate A and approves the complete
-desktop/mobile target at Gate B.
+locked in `METHODOLOGY.md`. Stage 1 is complete in `REFERENCE_BOARD.md` and
+Stage 2 is complete in `DESIGN_DIRECTIONS.md`. The project now awaits Jan's
+explicit Gate A decision. Do not change website code before Jan selects a
+direction and approves the complete desktop/mobile target at Gate B.
