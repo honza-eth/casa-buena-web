@@ -6,6 +6,10 @@ generate and reject visual concepts before coding, implement one approved
 target faithfully, then compare the result against that target at fixed
 viewports. A better prompt alone is not considered a design process.
 
+Casa Buena is a reliable operational vehicle service, not a luxury or
+aspirational automotive brand. Design quality must come from clarity,
+wayfinding, hierarchy and exact execution—not glamour.
+
 ## Roles
 
 - Jan is the art director and approval authority. He chooses or rejects visual
@@ -34,8 +38,9 @@ anti-direction and measurable acceptance conditions.
 ### 1. Build a reference board by forensic decomposition
 
 Collect a small, high-quality set of real references across relevant worlds
-such as premium automotive, European logistics, editorial publishing,
-architecture and high-trust professional services. For each reference record:
+such as vehicle services, European wayfinding, logistics, technical manuals,
+public-service information and high-trust local services. For each reference
+record:
 
 - the exact element or principle worth borrowing;
 - why it works for Casa Buena;
@@ -59,8 +64,8 @@ image treatment and rhythm—not merely colour.
 Each direction needs a one-sentence thesis, its reference lineage, intended
 emotional effect, strongest advantage, principal risk and explicit
 anti-patterns. Reject generic dashboard cards, default gradients, arbitrary
-rounded boxes, interchangeable sans-serif layouts, decorative motion and stock
-"luxury" clichés.
+rounded boxes, interchangeable sans-serif layouts, decorative motion, glossy
+vehicle advertising and every luxury or exclusivity cue.
 
 **Gate A — Jan selects one direction, requests a deliberate hybrid or rejects
 all directions. No production code is written before this decision.**
@@ -125,7 +130,11 @@ on the live hostnames before claiming completion.
 - New references after Gate A may solve a specific problem but may not replace
   the approved visual thesis without returning to that gate.
 - Prompts must name concrete references, constraints and prohibited patterns;
-  "make it more premium" is not an actionable direction.
+  "make it more premium" is not an actionable direction and conflicts with the
+  service position.
+- Vehicles may appear only as the subject of work or evidence of service, not
+  as objects of desire. Full-bleed glamour, dramatic studio light, magazine-
+  cover automotive culture and prestige styling are prohibited.
 - The process does not adopt a large third-party taste system wholesale.
   External systems supply tested principles; Casa Buena keeps its own art
   direction and truth boundary.

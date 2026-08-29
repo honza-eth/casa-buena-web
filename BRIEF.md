@@ -2,10 +2,10 @@
 
 ## Objective
 
-Improve the live Casa buena s.r.o. website into a distinctive, premium and
+Improve the live Casa buena s.r.o. website into a clear, dependable and
 radically concise bilingual company site. It must explain Casa Buena's truthful
-China-origin vehicle import offer immediately and make direct email contact the
-obvious next action.
+China-origin vehicle import service immediately and make direct email contact
+the obvious next action.
 
 ## Audience
 
@@ -41,7 +41,13 @@ confirmed for each vehicle and engagement.
   visual system
 - Use the minimum copy needed to communicate the complete offer with absolute
   clarity
-- Feel refined, memorable and intentionally designed rather than template-like
+- Feel calm, competent, practical and intentionally designed rather than
+  template-like
+- Present a reliable vehicle service, not automotive luxury, aspiration,
+  exclusivity or vehicle retail
+- Let visible scope, process, responsibility and contact create trust; do not
+  use glamorous vehicle imagery or dramatic product-marketing treatment as a
+  substitute for service evidence
 - Keep direct email as the primary conversion; do not add an enquiry form
 - Meet responsive, accessibility and reduced-motion expectations
 - Provide correct language metadata, canonical URLs and hreflang alternates
@@ -53,6 +59,6 @@ confirmed for each vehicle and engagement.
   how to make contact
 - No public statement crosses the verified service boundary
 - Company identity and the current domain email remain visible
-- Desktop and mobile layouts are polished and accessible
+- Desktop and mobile layouts are clear, professional and accessible
 - English and Czech rendered-page tests, lint and the production build pass
 - The redesign remains local until Jan approves a separate deployment

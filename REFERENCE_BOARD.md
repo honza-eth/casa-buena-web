@@ -1,45 +1,46 @@
 # Reference Board
 
-Observed: 2026-08-29
+Re-evaluated: 2026-08-29 after Jan rejected the luxury-automotive framing
 
-This board is the Stage 1 input to concept generation. It does not select a
-final art direction. Each reference contributes one bounded principle; no
-single reference may become a template.
+This board is the corrected Stage 1 input to concept generation. Casa Buena is
+a reliable vehicle service. Quality comes from clarity, process and execution,
+not from presenting the vehicle or company as luxurious.
 
 ## Design frame
 
 ### Job
 
-Make a Chinese exporter, European buyer/importer or verifying counterparty feel
-within seconds that Casa Buena is a precise, culturally fluent and trustworthy
-European coordinator for a specific vehicle—not a generic freight company and
-not an unproven global importer.
+Make a Chinese exporter, European buyer/importer or verifying counterparty
+understand three things immediately:
+
+1. where Casa Buena's standard scope begins;
+2. what Casa Buena coordinates on the European side;
+3. how to reach a responsible person about a specific vehicle.
 
 ### Desired response
 
-The vehicle creates desire. Casa Buena supplies calm control. The visitor should
-feel that the company understands both premium automotive culture and the exact
-European work required after the agreed port.
+"I understand the service. The boundary is clear. The process looks organised.
+I know what to send and whom to contact."
 
 ### Constant visual thesis
 
-**Automotive seduction disciplined by European control.**
+**Clear scope. Understandable process. Reachable coordinator.**
 
-The three or four concept directions may express this thesis differently, but
-each must combine a memorable automotive or material focal point with restrained
-information hierarchy and a credible operational boundary.
+The business is operational and deliberately unglamorous. The interface should
+feel like a well-run service: calm, legible, specific, easy to navigate and
+visibly accountable.
 
 ### Anti-direction
 
-- generic truck, road, container or port stock photography;
-- a blue/green corporate logistics template with service cards and a quote form;
-- a SaaS dashboard masquerading as a company site;
-- black-and-gold "luxury" clichés, supercar wallpaper or ornamental serif type;
-- a bureaucratic dossier so austere that the vehicle disappears;
-- vague futurism, default gradients, glass panels and excessive rounded cards;
-- China visual stereotypes or decorative flags;
-- motion that delays the first meaningful message or hides content in a static
-  screenshot.
+- luxury, prestige, exclusivity or aspirational vehicle positioning;
+- full-bleed glossy automobiles, dramatic studio light or cinematic black;
+- automotive-magazine covers, exotic-car culture or oversized fashion type;
+- a HUD, tracking dashboard or invented operational status;
+- fake VINs, stamps, records, metrics, ports, coordinates or case evidence;
+- generic blue/green logistics templates, stock trucks and service-card grids;
+- vague slogans about excellence, innovation or seamless delivery;
+- decorative animation that slows down the task;
+- stock photographs pretending to show Casa Buena's people or real work.
 
 ## Positive references
 
@@ -47,163 +48,138 @@ information hierarchy and a credible operational boundary.
 
 Source: [casabuena.cz](https://casabuena.cz/)
 
-- **Borrow:** the disciplined grid, restrained CB identity, route precision,
-  direct email action and confidence to use space.
-- **Why:** these are recognisable assets and already communicate control.
-- **Do not copy forward:** the lack of a tangible vehicle/material focal point,
-  long empty opening and near-total dependence on typography for emotion.
-- **Applies to:** identity, hierarchy, continuity.
+- **Borrow:** truthful scope, direct contact, restrained CB identity and the
+  four-stage route.
+- **Why:** the operating boundary is already clearer than on most category
+  sites.
+- **Do not copy forward:** luxury-editorial framing, dramatic emptiness,
+  monumental type or visual dependence on a dark dossier aesthetic.
+- **Applies to:** continuity, content hierarchy, service boundary.
 
-### 2. Terminal Industries
+### 2. GOV.UK vehicle-import guidance
 
-Source: [terminal-industries.com](https://www.terminal-industries.com/)
+Source: [Importing vehicles into the UK](https://www.gov.uk/importing-vehicles-into-the-uk)
 
-- **Borrow:** one industrial object at cinematic scale, quiet interface chrome,
-  warm-neutral grading and line work that feels infrastructural.
-- **Why:** it proves logistics can feel authored and premium without becoming
-  decorative.
-- **Do not copy:** the rounded truck frame, American freight imagery or software
-  product narrative.
-- **Applies to:** composition, imagery, spatial language.
+- **Borrow:** task-first title, plain language, contents list, obvious links and
+  confidence that comes from structure rather than persuasion.
+- **Why:** visitors dealing with an import need orientation more than a sales
+  performance.
+- **Do not copy:** government branding, institutional blue or the density of a
+  national information portal.
+- **Applies to:** hierarchy, plain language, wayfinding.
 
-### 3. Loada
+### 3. SBB
 
-Source: [loada.co](https://loada.co/)
+Source: [sbb.ch/en](https://www.sbb.ch/en)
 
-- **Borrow:** product-level confidence, restrained material palette, generous
-  single-purpose hero and unmistakable action hierarchy.
-- **Why:** it is directly adjacent to vehicle movement yet avoids the standard
-  freight-company look.
-- **Do not copy:** phone mock-ups, platform/SaaS claims or broad product menu.
-- **Applies to:** hierarchy, conversion, material palette.
+- **Borrow:** make the journey task the primary visual object, use a continuous
+  origin-to-destination line and keep service navigation functional.
+- **Why:** SBB makes a complex transport network feel like one understandable
+  action.
+- **Do not copy:** ticket form, Swiss identity or rail-specific symbols.
+- **Applies to:** route logic, wayfinding, interaction hierarchy.
 
-### 4. NIO ET9
+### 4. Swiss Post
 
-Source: [nio.com/et9](https://www.nio.com/et9)
+Source: [post.ch/en](https://www.post.ch/en)
 
-- **Borrow:** one immaculate Chinese vehicle image, confident full-bleed scale
-  and visually quiet brand chrome.
-- **Why:** the origin category can feel desirable and globally premium rather
-  than unfamiliar or risky.
-- **Do not copy:** mountain spectacle, manufacturer campaign language or a
-  model-specific identity.
-- **Applies to:** photography, art direction, emotional first impression.
+- **Borrow:** lead with the user's task, show a small set of common next actions
+  and use service colour semantically.
+- **Why:** reliability is communicated by immediate utility and recognisable
+  responsibility, not by prestige.
+- **Do not copy:** parcel tracking, large service catalogue or postal yellow as
+  a borrowed identity.
+- **Applies to:** task focus, navigation, colour discipline.
 
-### 5. Polestar 5
+### 5. The AA and RAC
 
-Source: [polestar.com/global/polestar-5](https://www.polestar.com/global/polestar-5/)
+Sources: [theaa.com](https://www.theaa.com/), [rac.co.uk](https://www.rac.co.uk/)
 
-- **Borrow:** disciplined global/sub-navigation, extreme typographic cropping
-  and the use of a numeral as an image mask.
-- **Why:** it turns basic brand material into an authored editorial composition.
-- **Do not copy:** the literal numeral device, manufacturer navigation depth or
-  monochrome minimalism as an end in itself.
-- **Applies to:** typography, cropping, navigation.
+- **Borrow:** highly visible help paths, sturdy typography, normal vehicles and
+  working people as subjects of service, and strong functional accent colours.
+- **Why:** both brands make ordinary automotive help feel established and
+  reachable without turning cars into luxury objects.
+- **Do not copy:** promotional discounts, crowded mega-navigation, membership
+  sales language or emergency-service claims.
+- **Applies to:** service presence, approachable photography, action hierarchy.
 
-### 6. Type 7
+### 6. DriiveMe Enterprise
 
-Source: [type7.com](https://type7.com/)
+Source: [driiveme.com/en-GB/pro](https://www.driiveme.com/en-GB/pro)
 
-- **Borrow:** magazine-cover scale, bold condensed display type, tactile archive
-  material and confidence to let imagery carry cultural meaning.
-- **Why:** it communicates automotive taste, not merely automotive inventory.
-- **Do not copy:** Porsche-specific heritage, commerce chrome or retro treatment
-  without a Casa-specific reason.
-- **Applies to:** editorial rhythm, type, photography and texture.
+- **Borrow:** adjacent-category clarity, a vehicle shown diagrammatically rather
+  than glamorously, and a short list of concrete service types.
+- **Why:** it keeps vehicle movement recognisable while remaining operational.
+- **Do not copy:** market-leader claims, company counts, platform account flow or
+  services outside Casa Buena's verified boundary.
+- **Applies to:** category recognition, illustration, service list.
 
-### 7. Maison Veyrat / OpenAI Codex showcase
+### 7. vemove
 
-Source: [live example](https://openai-landing-page-examples.vercel.app/haute-horlogerie),
-[build notes](https://developers.openai.com/showcase/watchmaker-landing-page)
+Source: [vemove.de](https://vemove.de/)
 
-- **Borrow:** a single highly resolved crafted object, controlled reveal,
-  precise material colours and concise two-level conversion.
-- **Why:** it is verified public evidence that an image-first Codex workflow can
-  produce a polished luxury surface after deliberate iteration.
-- **Do not copy:** watch motifs, black/rose-gold styling or product-viewing copy.
-- **Applies to:** asset quality, light, material detail and concept workflow.
+- **Borrow:** name the service category directly, explain the practical outcome
+  in one paragraph and keep the next action visible.
+- **Why:** visitors do not have to decode what the company does.
+- **Do not copy:** calculator, SaaS form, purple gradient, rounded cards or
+  network/coverage claims.
+- **Applies to:** first-viewport information order and conversion.
 
-### 8. Newtwen
+### 8. Wise
 
-Source: [newtwen.com](https://www.newtwen.com/)
+Source: [wise.com](https://wise.com/)
 
-- **Borrow:** visible engineering grid, custom display lettering, monospaced
-  microcopy and one sharply controlled technical accent.
-- **Why:** the European coordination work can feel exact and technical without
-  looking bureaucratic.
-- **Do not copy:** neon green, fragmented text blocks or a software-company
-  personality.
-- **Applies to:** information graphics, type pairing, technical details.
+- **Borrow:** plain transactional language, bold but readable hierarchy and
+  visible inputs/outputs instead of abstract trust claims.
+- **Why:** a complex cross-border service becomes understandable by showing the
+  task and expected information.
+- **Do not copy:** financial calculator, playful green identity, fee or timing
+  promises.
+- **Applies to:** plain language, transaction framing, information priority.
 
-### 9. Lando Norris
+### 9. NHS
 
-Source: [landonorris.com](https://landonorris.com/)
+Source: [nhs.uk](https://www.nhs.uk/)
 
-- **Borrow:** unmistakable graphic authorship, one human focal point, custom
-  identity marks and small data-like race details around a calm hero.
-- **Why:** it demonstrates how a minimal page can still feel unique rather than
-  like a template.
-- **Do not copy:** celebrity portraiture, Formula 1 motifs, fluorescent lime or
-  game-like motion.
-- **Applies to:** identity, focal hierarchy, micro-details.
+- **Borrow:** human service photography, high-contrast information blocks and
+  an unmistakable path to help.
+- **Why:** visible people and plain guidance can create reassurance without
+  glamour.
+- **Do not copy:** public-institution styling, medical authority cues or stock
+  photography presented as Casa Buena evidence.
+- **Applies to:** human presence, accessibility, help hierarchy.
 
-### 10. dhk
+## Three corrected concept lanes
 
-Source: [dhk.co.za](https://www.dhk.co.za/)
+### A — Service Sheet
 
-- **Borrow:** real people inside a refined architectural frame, strong lower
-  information rail and neutral typography that lets human evidence lead.
-- **Why:** trust comes from visible competent people as well as precision.
-- **Do not copy:** studio-portfolio navigation or generic office photography.
-- **Applies to:** human credibility, framing, editorial navigation.
+A well-run vehicle job sheet: light paper, dark ink, one practical accent,
+compact service facts and a strong bracket marking where Casa Buena's scope
+starts. Visual quality comes from typographic discipline and useful detail.
 
-## Category anti-references
+### B — European Wayfinding
 
-### bestlog
+The recommended lane. A continuous route line guides the visitor from the
+agreed EU port through four truthful stages to direct contact. Neutral light
+surfaces, robust grotesk type, clear numbering and directional symbols create a
+recognisable system without spectacle.
 
-Source: [bestlog.de/en](https://www.bestlog.de/en/)
+### C — Human Handover
 
-The site is legitimate sector context, but its crowded header, generic aerial
-road footage, green sustainability treatment and broad slogan are exactly the
-visual category Casa Buena must escape.
+Plain-language service around authentic documentary photographs of real people,
+documents, vehicle handling or handover. This lane is valid only when Casa Buena
+can supply genuine photographs. Until then, the concept must use explicit photo
+placeholders rather than generated or stock people.
 
-### Motus Exclusive
+## Acceptance conditions for corrected Stage 2
 
-Source: [motusexclusive.co.uk](https://www.motusexclusive.co.uk/)
-
-The sparse theme-like navigation, empty hero state, conventional contact chrome
-and weak visual focal point show that using the word "exclusive" does not create
-premium authorship.
-
-## Synthesis for concept generation
-
-Every concept must use a different blend of these four ingredients:
-
-1. **Desire** — a vehicle, component, light study or tactile automotive detail
-   strong enough to stop the eye.
-2. **Control** — an exact grid, route, sequence, annotation or evidence layer
-   that communicates European operational competence.
-3. **Culture** — editorial typography and image treatment that signal taste
-   without copying a manufacturer or magazine.
-4. **Human trust** — direct language, credible company identity and, where the
-   concept supports it, a restrained human presence.
-
-The directions must not be palette variants. At minimum they must test:
-
-- one cinematic, image-dominant direction;
-- one editorial, typography-and-archive direction;
-- one technical, control-system direction;
-- an optional fourth direction only if it introduces a genuinely different
-  spatial or human idea.
-
-## Acceptance conditions for Stage 2
-
-- The same truthful English content and direct-email goal underpin every option.
-- The first viewport still explains what Casa coordinates and where its standard
-  scope begins.
-- Each direction has one memorable proprietary visual gesture.
-- No direction could be relabelled as a generic logistics, SaaS or luxury site.
-- Each direction identifies its reference lineage and what it deliberately
-  refuses to copy.
-- Concepts are judged as images before production frontend work begins.
-- Jan explicitly selects, hybridises or rejects the directions at Gate A.
+- The first viewport answers what Casa coordinates, where its scope starts and
+  how to contact the company.
+- Reliability is demonstrated through clarity and responsibility, never claimed
+  through vague adjectives.
+- A vehicle, if shown, is an object of work rather than an object of desire.
+- No concept contains luxury cues, invented evidence or fake status data.
+- The three directions differ structurally, not only by colour.
+- Any human/service photography is explicitly authentic or visibly marked as a
+  placeholder.
+- Jan explicitly selects or rejects the corrected directions at a new Gate A.

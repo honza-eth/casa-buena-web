@@ -37,3 +37,8 @@
   (C). Internal truth review rejected invented generated shipping/vehicle data
   and regenerated the affected visuals. `DESIGN_DIRECTIONS.md` records their
   lineage, advantage, risk and anti-patterns. No website code changed.
+- 2026-08-29 — Jan rejected A, B and C because they portrayed luxury and
+  automotive desire, while Casa Buena is a reliable, practical vehicle service.
+  `BRIEF.md` now makes that boundary explicit. The reference board and Stage 2
+  were reset; the new thesis is "clear scope, understandable process, reachable
+  coordinator." Existing frontend code and production remain unchanged.

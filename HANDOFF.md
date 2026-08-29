@@ -10,9 +10,10 @@ The 2026-08-29 visual-improvement phase uses the binding staged process in
   and gated by Jan before production code.
 - `frontend-design` supports craft and `imagegen` supports concept images and
   original raster assets; neither may override the approved direction.
-- Stage 1 is complete in `REFERENCE_BOARD.md`.
-- Stage 2 is complete in `DESIGN_DIRECTIONS.md`.
-- Current gate: Gate A, awaiting Jan's explicit concept decision.
+- The original Stage 1 thesis was superseded after Jan's correction.
+- Original Stage 2 directions A, B and C are rejected in full; no hybrid.
+- `REFERENCE_BOARD.md` is re-evaluated around reliable service and wayfinding.
+- Current stage: Stage 2 reset, new desktop concepts required.
 - No website code, generated production asset or deployment may change before
   Gate A and Gate B are passed.
 
@@ -28,9 +29,9 @@ A premium bilingual Casa Buena redesign is live in production:
 - language-specific document language, canonical/hreflang and social metadata
 - bespoke social preview asset
 
-The key concept is **European transit dossier meets luxury automotive
-editorial**: warm paper, matte black, international orange, precision-grid
-details, oversized route typography and a memorable EU→CZ graphic spine.
+The live key concept remains **European transit dossier meets luxury automotive
+editorial**, but Jan has explicitly rejected this framing for the next redesign.
+It is a production-baseline description, not a direction to preserve.
 
 ## Verification completed on 2026-08-01
 
@@ -72,7 +73,7 @@ the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Next
 
-Jan selects A, B or C; requests a deliberate hybrid that names one base and one
-exact borrowed element; or rejects all three. Codex recommends B for maximum
-graphic-design step change. Do not create mobile/section specifications, change
-the website implementation or deploy anything before this decision.
+Generate three new Gate A directions under the service thesis "clear scope,
+understandable process, reachable coordinator": Service Sheet, European
+Wayfinding and Human Handover. The human lane requires authentic photography;
+do not substitute stock. Do not change the website implementation or deploy.

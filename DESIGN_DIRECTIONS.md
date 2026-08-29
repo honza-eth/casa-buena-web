@@ -1,12 +1,19 @@
 # Design Directions
 
-Status: Gate A — awaiting Jan's explicit selection, deliberate hybrid request or
-rejection
+Status: Rejected at Gate A by Jan on 2026-08-29
+
+Decision: reject A, B and C in full. Do not hybridise or reuse their luxury,
+cinematic, magazine or prestige-automotive framing.
+
+Reason: Casa Buena offers a reliable, practical vehicle service. These concepts
+incorrectly portrayed the business through automotive desire and luxury cues.
+They remain below only as a rejected-decision record so the same drift is not
+reintroduced later.
 
 Generated: 2026-08-29
 
-All three directions use the same constant thesis from `REFERENCE_BOARD.md`:
-**automotive seduction disciplined by European control**. They are first-
+All three directions used the superseded thesis **automotive seduction
+disciplined by European control**. They are first-
 viewport image concepts, not approved copy, production assets or implementation
 specifications. Minor image-generated letter defects are not design decisions.
 
@@ -83,7 +90,7 @@ User-facing image: `CASA_BUENA_CONCEPT_C_CONTROL_INSTRUMENT.png`
 - Choose **C** when operational clarity and continuity with the existing Casa
   identity are more important than a radical aesthetic break.
 
-## Gate A rule
+## Superseded Gate A rule
 
 No website code changes, mobile mock-ups or production assets are authorised by
 the existence of these concepts. Jan must explicitly select A, B or C; request
