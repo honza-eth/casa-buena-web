@@ -2,9 +2,17 @@
 
 Re-evaluated: 2026-08-29 after Jan rejected the luxury-automotive framing
 
+Status: SUPERSEDED AS A COMPOSITION SOURCE after the second Gate A rejection
+
 This board is the corrected Stage 1 input to concept generation. Casa Buena is
 a reliable vehicle service. Quality comes from clarity, process and execution,
 not from presenting the vehicle or company as luxurious.
+
+The board remains useful for information hierarchy, but it failed as an art-
+direction source: broad references to service sites and wayfinding converged on
+generic infographic patterns. The next Stage 1 pass must start after Gate N
+from one authentic vehicle-movement or handover artifact and decompose its
+physical logic. Website layouts may not be used as the compositional template.
 
 ## Design frame
 
@@ -183,3 +191,11 @@ placeholders rather than generated or stock people.
 - Any human/service photography is explicitly authentic or visibly marked as a
   placeholder.
 - Jan explicitly selects or rejects the corrected directions at a new Gate A.
+
+## Outcome
+
+The corrected Stage 2 failed these conditions in practice because its visual
+grammar was generic despite factual clarity. `DESIGN_DIRECTIONS_V2.md` records
+the rejection. The next board must prohibit its white-canvas/red-line/four-icon
+formula and use the selected public brand rather than Casa Buena as the visual
+identity.

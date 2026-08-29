@@ -6,9 +6,10 @@ generate and reject visual concepts before coding, implement one approved
 target faithfully, then compare the result against that target at fixed
 viewports. A better prompt alone is not considered a design process.
 
-Casa Buena is a reliable operational vehicle service, not a luxury or
-aspirational automotive brand. Design quality must come from clarity,
-wayfinding, hierarchy and exact execution—not glamour.
+The public brand is a reliable operational vehicle service, not a luxury or
+aspirational automotive brand. Casa Buena s.r.o. is its legal operator, not the
+public name. Design quality must come from an ownable idea, clarity, hierarchy
+and exact execution—not glamour or a generic visual shorthand for reliability.
 
 ## Roles
 
@@ -19,9 +20,13 @@ wayfinding, hierarchy and exact execution—not glamour.
   and technical QA.
 - `frontend-design` is a craft aid for typography, composition, hierarchy,
   motion and detail. It may not introduce a new direction after approval.
-- `imagegen` is the default tool for high-fidelity concept images and original
-  raster assets. Concepts are design targets, not evidence that the built page
-  matches them.
+- `imagegen` may produce a bounded raster asset, texture or illustration after
+  its role and composition are specified. It must not generate a complete page,
+  choose the interface composition or typeset final copy. Full-page generative
+  mock-ups repeatedly collapsed into recognisable template language.
+- Concept surfaces are hand-authored as non-production HTML/CSS or another
+  precisely controllable layout, then rendered at fixed viewports. They remain
+  design targets, not production implementation.
 
 ## Non-negotiable sequence
 
@@ -35,12 +40,29 @@ service boundary to make a design concept easier.
 Output: a compact design frame containing the job, audience, visual thesis,
 anti-direction and measurable acceptance conditions.
 
+### 0.5. Resolve brand architecture and public name
+
+Treat Casa Buena s.r.o. as the legal operator. Define the customer-facing
+category and naming brief, explore genuinely different naming territories, and
+screen finalists for Czech/English pronunciation, meaning, category confusion,
+obvious current web collisions and preliminary domain/trademark risk.
+
+Do not claim legal clearance from a preliminary screen. Domain purchase,
+trademark filing, company-name changes, DNS and email changes are separate
+external actions.
+
+Output: `BRAND_NAMING.md` with the naming brief, rejected patterns, candidates,
+evidence, risks and one recommendation.
+
+**Gate N — Jan selects the public brand or rejects the naming set. No new visual
+direction is produced before this decision.**
+
 ### 1. Build a reference board by forensic decomposition
 
-Collect a small, high-quality set of real references across relevant worlds
-such as vehicle services, European wayfinding, logistics, technical manuals,
-public-service information and high-trust local services. For each reference
-record:
+Collect a small, high-quality set of real references led by authentic physical
+or operational artifacts from the service world, not by generic website
+layouts. Category websites may validate information needs but may not supply
+the composition. For each reference record:
 
 - the exact element or principle worth borrowing;
 - why it works for Casa Buena;
@@ -55,17 +77,19 @@ Output: `REFERENCE_BOARD.md` and a viewable contact sheet or equivalent.
 
 ### 2. Explore materially different concepts before code
 
-Use the same approved content and constraints to produce three or four
-high-fidelity desktop homepage directions. Generate visual mock-ups first;
-standalone non-production HTML may be used only when interaction is essential
-to judging a concept. The directions must differ in composition, typography,
+Use the approved name, content and constraints to produce two or three
+high-fidelity desktop homepage directions. Hand-author the concept surfaces in
+non-production HTML/CSS so composition and typography are intentional at every
+layer. `imagegen` may supply only a named component asset. The directions must
+differ in their central physical/operational metaphor, composition, typography,
 image treatment and rhythm—not merely colour.
 
-Each direction needs a one-sentence thesis, its reference lineage, intended
+Each direction needs a one-sentence thesis, its artifact lineage, intended
 emotional effect, strongest advantage, principal risk and explicit
 anti-patterns. Reject generic dashboard cards, default gradients, arbitrary
 rounded boxes, interchangeable sans-serif layouts, decorative motion, glossy
-vehicle advertising and every luxury or exclusivity cue.
+vehicle advertising, horizontal four-step process lines with catalog icons,
+condensed all-caps display headlines and every luxury or exclusivity cue.
 
 **Gate A — Jan selects one direction, requests a deliberate hybrid or rejects
 all directions. No production code is written before this decision.**
@@ -125,6 +149,9 @@ on the live hostnames before claiming completion.
   Stage 0 and the current `REFERENCE_BOARD.md` or `DESIGN.md` when present.
 - Accepted and rejected decisions are recorded immediately; rejected concepts
   are not quietly resurrected in later iterations.
+- A rejected visual grammar is banned as a whole. Renaming its sections,
+  changing its accent colour or combining fragments does not create a new
+  direction.
 - Each gate is explicit. Silence, partial praise or passing tests are not
   approval.
 - New references after Gate A may solve a specific problem but may not replace
@@ -138,8 +165,9 @@ on the live hostnames before claiming completion.
 - The process does not adopt a large third-party taste system wholesale.
   External systems supply tested principles; Casa Buena keeps its own art
   direction and truth boundary.
-- Website code, generated assets and production state remain unchanged during
-  Stages 0–2 unless Jan explicitly changes the sequence.
+- Production website code, production assets and production state remain
+  unchanged through Gate N and Stages 0–2 unless Jan explicitly changes the
+  sequence.
 
 ## Completion standard
 

@@ -2,10 +2,16 @@
 
 ## Objective
 
-Improve the live Casa buena s.r.o. website into a clear, dependable and
-radically concise bilingual company site. It must explain Casa Buena's truthful
-China-origin vehicle import service immediately and make direct email contact
-the obvious next action.
+Create a distinct public-facing service brand, operated by Casa Buena s.r.o.,
+and improve the live website into a clear, dependable and radically concise
+bilingual company site. It must explain the truthful China-origin vehicle
+import service immediately and make direct email contact the obvious next
+action.
+
+Casa Buena is the legal entity, not the final brand name. A new public brand
+must be selected before visual direction resumes. The legal entity remains
+visible where identity and accountability require it, but it must not dictate
+the customer-facing name or logo.
 
 ## Audience
 
@@ -37,8 +43,10 @@ confirmed for each vehicle and engagement.
 
 ## Experience requirements
 
-- Retain a recognisable Casa Buena/CB identity within a freely redesigned
-  visual system
+- Establish a memorable service brand that works in Czech and English; do not
+  preserve the Casa Buena/CB mark as the public identity by default
+- Keep Casa Buena s.r.o. visible as the legal operator without confusing the
+  entity name with the service brand
 - Use the minimum copy needed to communicate the complete offer with absolute
   clarity
 - Feel calm, competent, practical and intentionally designed rather than
@@ -55,6 +63,8 @@ confirmed for each vehicle and engagement.
 ## Success
 
 - Both language versions are complete, equivalent and easy to switch between
+- The selected public brand is distinct from Casa Buena s.r.o., understandable
+  in Czech and English and has passed preliminary collision screening
 - The first viewport answers what Casa coordinates, where its scope begins and
   how to make contact
 - No public statement crosses the verified service boundary

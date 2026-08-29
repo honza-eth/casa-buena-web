@@ -42,3 +42,22 @@
   `BRIEF.md` now makes that boundary explicit. The reference board and Stage 2
   were reset; the new thesis is "clear scope, understandable process, reachable
   coordinator." Existing frontend code and production remain unchanged.
+- 2026-08-29 — Corrected Stage 2 produced Service Sheet (A), European Wayfinding
+  (B) and Human Handover (C). All avoid luxury and invented evidence. B is the
+  recommended fit; C deliberately requires authentic photography. One invented
+  generated email in B was corrected to `casabuena@struhala.cz` before Gate A.
+  `DESIGN_DIRECTIONS_V2.md` records the comparison. No website code changed.
+- 2026-08-29 — Jan rejected the entire corrected set as recognisable AI slop:
+  white corporate canvas, condensed headline, red line, four numbered steps,
+  catalog icons and predictable blocks. The method now prohibits full-page
+  `imagegen` UI generation and requires hand-authored concept surfaces anchored
+  in a real service-specific physical artifact. No rejected grammar may return.
+- 2026-08-29 — Jan clarified that Casa Buena s.r.o. is the legal entity, not the
+  service brand. Gate N was added before visual work: select and preliminarily
+  screen a distinct Czech/English public name, then restart art direction.
+  Website code and production remain unchanged.
+- 2026-08-29 — Artifact-first research found an authentic non-luxury anchor:
+  the rear-view-mirror destination hanger used in finished-vehicle movement.
+  `ARTIFACT_RESEARCH.md` limits the visual translation to a private brand-owned
+  coordination tag and prohibits carrier imitation, fake codes, VINs, barcodes,
+  customs status or implied operational authority. Visual work waits for Gate N.

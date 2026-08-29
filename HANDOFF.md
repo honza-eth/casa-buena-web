@@ -8,12 +8,18 @@ The 2026-08-29 visual-improvement phase uses the binding staged process in
 - The current live release is the preserved production baseline.
 - Research is complete: the verified method is reference-led, concept-first
   and gated by Jan before production code.
-- `frontend-design` supports craft and `imagegen` supports concept images and
-  original raster assets; neither may override the approved direction.
+- `frontend-design` supports craft. `imagegen` may create only bounded raster
+  assets or textures; full generated interfaces are prohibited after the second
+  set converged on generic AI-infographic language.
 - The original Stage 1 thesis was superseded after Jan's correction.
 - Original Stage 2 directions A, B and C are rejected in full; no hybrid.
 - `REFERENCE_BOARD.md` is re-evaluated around reliable service and wayfinding.
-- Current stage: Stage 2 reset, new desktop concepts required.
+- Corrected Stage 2 is rejected in full in `DESIGN_DIRECTIONS_V2.md`; no hybrid.
+- Casa Buena s.r.o. is the legal operator, not the future public brand.
+- Current gate: Gate N, public-brand naming and preliminary collision screening.
+- `ARTIFACT_RESEARCH.md` records the strongest post-name art-direction anchor:
+  a private rear-view-mirror vehicle movement hanger based on real cargo-
+  handling practice, with strict controls against fake documents or status.
 - No website code, generated production asset or deployment may change before
   Gate A and Gate B are passed.
 
@@ -73,7 +79,8 @@ the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Next
 
-Generate three new Gate A directions under the service thesis "clear scope,
-understandable process, reachable coordinator": Service Sheet, European
-Wayfinding and Human Handover. The human lane requires authentic photography;
-do not substitute stock. Do not change the website implementation or deploy.
+Produce `BRAND_NAMING.md` with distinct naming territories, preliminary Czech/
+English and collision checks, three finalists and one evidence-backed
+recommendation. Jan selects or rejects the public name at Gate N. Only then
+turn the researched private movement hanger into a hand-authored Gate A concept
+surface. Do not change the website implementation or deploy.

@@ -49,12 +49,17 @@ The premium bilingual redesign is live at <https://casabuena.cz>. Sites version
 - Existing email records and the published `casabuena@struhala.cz` address are
   unchanged
 
-## Next action
+## Active improvement phase
 
 A new visual-improvement phase is active, with the current live release kept as
-the production baseline. The concept-first workflow and approval gates are
-locked in `METHODOLOGY.md`. Jan rejected the first Gate A set because it framed
-the service as luxury automotive. `BRIEF.md` and `REFERENCE_BOARD.md` have been
-re-evaluated around reliable service, clear scope and wayfinding. Generate a new
-Stage 2 set next. Do not change website code before Jan selects a direction and
-approves the complete desktop/mobile target at Gate B.
+the production baseline. Jan rejected both Gate A sets: the first sold luxury;
+the second replaced luxury with generic AI-infographic language. Casa Buena
+s.r.o. is now explicitly the legal operator, not the public brand name.
+
+Current work is Gate N: develop and preliminarily screen a distinct Czech/
+English service brand. After Jan selects it, Stage 1 restarts from an authentic
+vehicle-movement artifact. `ARTIFACT_RESEARCH.md` identifies a private rear-
+view-mirror movement hanger as the strongest anchor. The next concepts are
+hand-authored; `imagegen` cannot generate a full interface. Do not change
+production website code, assets or deployment before Gate A and Gate B are
+subsequently passed.
