@@ -2,16 +2,17 @@
 
 ## Bootstrap
 
-This project uses `/bootstrap` for the website-improvement phase.
+The 2026-08-29 visual-improvement phase uses the binding staged process in
+`METHODOLOGY.md`.
 
-- Discovery skipped: Jan supplied the approved objective, constraints and
-  success criteria.
-- Step 2 completed: `BRIEF.md`, `METHODOLOGY.md` and `JOURNAL.md` govern and
-  record the improvement phase.
-- Steps 3–4 skipped: this was an approved, bounded single-session redesign.
-- Step 5 completed locally: implementation, build, tests and independent audit
-  pass. No deployment or push was performed.
-- Next gate: Jan's visual and copy approval in a local desktop/mobile browser.
+- The current live release is the preserved production baseline.
+- Research is complete: the verified method is reference-led, concept-first
+  and gated by Jan before production code.
+- `frontend-design` supports craft and `imagegen` supports concept images and
+  original raster assets; neither may override the approved direction.
+- Current stage: Stage 1, forensic reference board.
+- No website code, generated production asset or deployment may change before
+  Gate A and Gate B are passed.
 
 ## Current milestone
 
@@ -47,8 +48,9 @@ details, oversized route typography and a memorable EU→CZ graphic spine.
   company identity with no captured console warnings
 
 The live interaction check succeeded, but screenshot capture failed after the
-browser target closed. Pixel-level desktop/mobile appearance, keyboard traversal
-and reduced-motion behavior remain the operator-review surface.
+browser target closed. The new phase supersedes the old unstructured review:
+fixed-viewport reference-versus-build comparisons are now mandatory after the
+new direction is approved and implemented.
 
 ## Production baseline
 
@@ -68,5 +70,7 @@ the same canonical page with `200` rather than returning an HTTP redirect.
 
 ## Next
 
-Jan reviews both live routes visually on desktop and mobile. Treat any findings
-as a new bounded refinement pass; the deployment itself is complete.
+Create `REFERENCE_BOARD.md` with concrete visual principles and anti-copy notes,
+then generate three or four materially different high-fidelity desktop concepts.
+Stop at Gate A for Jan's selection. Do not change the website implementation or
+deploy anything during this work.

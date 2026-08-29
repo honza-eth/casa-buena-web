@@ -1,6 +1,6 @@
 # State
 
-Updated: 2026-08-01
+Updated: 2026-08-29
 
 ## Status
 
@@ -51,5 +51,8 @@ The premium bilingual redesign is live at <https://casabuena.cz>. Sites version
 
 ## Next action
 
-Jan reviews the live English and Czech pages on desktop and mobile. Any visual
-or copy refinements become the next bounded website iteration.
+A new visual-improvement phase is active, with the current live release kept as
+the production baseline. The concept-first workflow and approval gates are
+locked in `METHODOLOGY.md`. Build `REFERENCE_BOARD.md` next; do not change
+website code before Jan selects a direction at Gate A and approves the complete
+desktop/mobile target at Gate B.

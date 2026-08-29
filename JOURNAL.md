@@ -22,3 +22,9 @@
 - 2026-08-01 — Lint and the production build/test suite pass. Local HTTP output
   is verified; browser-based visual inspection was unavailable and remains the
   operator approval gate.
+- 2026-08-29 — Jan opened a step-change visual-improvement phase. Research of
+  publicly documented Codex results established a binding concept-first method:
+  forensic references → materially different image concepts → Jan selection →
+  complete desktop/mobile specification → faithful implementation → fixed-
+  viewport visual QA. The method is now recorded in `METHODOLOGY.md`; website
+  code and production remain unchanged while reference research begins.
